@@ -1,1 +1,1 @@
-## Yardımcı Twitter Javascript Kodları
+## Yardımcı Twitter Javascript ve Python Kodları
