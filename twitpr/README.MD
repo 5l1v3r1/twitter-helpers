@@ -1,7 +1,6 @@
 # Otomatik Twitter Robotu
 
-Amacı
-=====
+## Amacı
 
 Gündemdeki trendlerden son atılan ve içinde başka kullanıcıya mention yapılmamış tweet'ler arasından rastgele seçerek oturum açılan hesaptan gönderir. Rastgele olduğu için her hesaptan aynı konuda farklı tweet atar. 
 
